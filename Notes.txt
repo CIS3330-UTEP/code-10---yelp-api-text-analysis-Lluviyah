@@ -1,0 +1,18 @@
+Corpus - large and unstructured set of texts. Used to do statistical analysis and hypothesis testing.
+Lexicon- set of features that have an assigned sentiment value
+
+
+
+NLTK Tokenization
+
+-STop words.// (Noise) words used to connect a sentence \
+
+API - Application Programming Interface
+defined as technology layer that allows applications to interact with each other without giving direct access to programming code or code logic.
+
+apis for data analysis can limit the amount of data or requests you can send
+
+how to use:
+1. find a service that you want to integrate to your code
+2. Request access to the api
+3. Implement the API functionalities in your code or workflow
